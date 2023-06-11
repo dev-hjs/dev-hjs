@@ -28,9 +28,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
  <img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=javascript&logoColor=white"/>
--->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=HyungJungSon&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
+
+-->
+
+## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="50" /> HyungJungn Son  
+
+```
+저는 모든 사람이 손쉽게 정보를 공유할 수 있는 차별 없는 웹 공간을 만들기 위해 노력하고 있습니다. 
+사용자를 위한 인터페이스와 경험을 제공하는 웹 환경을 설계하고 구축해 왔습니다.
+지금까지 그래왔고 앞으로도 소통과 자기개발을 통해 계속 이어나갈 것입니다.
+```
+![newBanner-Gif](https://user-images.githubusercontent.com/6918020/126431123-00baa7e4-5d04-413f-a7c9-543ff70563ad.gif) 
+
+
 
 <div style="align-center: center;"> 
   <p>📋 Languages</p>
