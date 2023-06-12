@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 -->
 
-## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="50" /> HyungJungn Son  
+## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="50" /> HyungJung Son  
 
 ```
 저는 모든 사람이 손쉽게 정보를 공유할 수 있는 차별 없는 웹 공간을 만들기 위해 노력하고 있습니다. 
