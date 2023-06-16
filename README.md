@@ -105,8 +105,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
   <br><br>
  
-  <img src="https://github-readme-stats-rose-eight-74.vercel.app/api/top-langs/?username=hyungjungson&layout=compact&theme=radical&hide=stars,contribs&count_private=true" style="height:177px;"/>
-  <img src="https://github-readme-stats-rose-eight-74.vercel.app/api?username=hyungjungson&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" style="height:177px;"/>
+  <img src="https://github-readme-stats-rose-eight-74.vercel.app/api/top-langs/?username=hyungjungson&layout=compact&theme=radical&hide=stars,contribs&count_private=true" style="height:165px;"/>
+  <img src="https://github-readme-stats-rose-eight-74.vercel.app/api?username=hyungjungson&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" style="height:165px;"/>
 
 </div>
 
