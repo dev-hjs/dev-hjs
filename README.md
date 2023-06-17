@@ -27,10 +27,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
- <img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=javascript&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/React-#61DAFB?style=flat-square&logo=javascript&logoColor=white"/>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=HyungJungSon&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyungjungson&layout=compact&theme=radical" style="height:177px;"/>
 <img src="https://github-readme-stats.vercel.app/api?username=hyungjungson&show_icons=true&theme=radical" style="height:177px;"/>
 
