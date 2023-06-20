@@ -34,7 +34,9 @@ Here are some ideas to get you started:
 
 -->
 
-## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="50" /> HyungJung Son <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyungjungson%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"  style="height : auto; margin-left : 580px;"/>
+## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="50" /> HyungJung Son 
+<p><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyungjungson%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"  style="height : auto; margin-left : 580px;"/>
+</p>
 
 ```
 저는 모든 사람이 손쉽게 정보를 공유할 수 있는 차별 없는 웹 공간을 만들기 위해 노력하고 있습니다. 
