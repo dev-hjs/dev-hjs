@@ -109,10 +109,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
   <br><br>
 
-  <img src="https://github-readme-stats-rose-eight-74.vercel.app/api/top-langs/?username=hyungjungson&layout=compact&theme=radical&hide=stars,contribs&count_private=true" style="height:175px;"/>
-  <img src="https://github-readme-stats-rose-eight-74.vercel.app/api?username=hyungjungson&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" style="height:175px;"/>
+  <img src="https://github-readme-stats-rose-eight-74.vercel.app/api/top-langs/?username=hyungjungson&layout=compact&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
+  <img src="https://github-readme-stats-rose-eight-74.vercel.app/api?username=hyungjungson&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
   
   <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark" />
+
+
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark&tag=evernote_chrome_error)](https://github.com/hyungjungson/velog-readme-stats)
 
 
 </div>
