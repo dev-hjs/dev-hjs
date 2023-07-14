@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hyungjungson&color=dark)](https://velog.io/@hyungjungson) 
 <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark" style="width:30%; height:125px;"/>
 <img src="https://velog-readme-stats.vercel.app/api/list?name=hyungjungson&color=dark" style="width: 100%; height:165px;"/>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark&tag=evernote_chrome_error)](https://github.com/hyungjungson/velog-readme-stats)
 -->
 
 ## <img src="https://user-images.githubusercontent.com/6918020/98543782-fa15ed80-22b8-11eb-8930-02afff68bb8a.gif" width="50" /> HyungJung Son 
@@ -111,13 +113,11 @@ Here are some ideas to get you started:
 
   <img src="https://github-readme-stats-rose-eight-74.vercel.app/api/top-langs/?username=hyungjungson&layout=compact&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
   <img src="https://github-readme-stats-rose-eight-74.vercel.app/api?username=hyungjungson&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
-  
+
+<p>
   <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark" />
-
-
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark&tag=evernote_chrome_error)](https://github.com/hyungjungson/velog-readme-stats)
-
+  <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark&tag=evernote_chrome_error"/>
+</p>
 
 </div>
 
