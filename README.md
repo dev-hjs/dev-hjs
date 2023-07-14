@@ -115,8 +115,8 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-rose-eight-74.vercel.app/api?username=hyungjungson&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
 
 <p>
-  <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark" />
-  <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark&tag=evernote_chrome_error"/>
+  <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark" style="width:46.5%" />
+  <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark&tag=evernote_chrome_error" style="width:46.5%" />
 </p>
 
 </div>
