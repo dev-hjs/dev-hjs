@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hyungjungson&color=dark)](https://velog.io/@hyungjungson) 
 <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark" style="width:30%; height:125px;"/>
 <img src="https://velog-readme-stats.vercel.app/api/list?name=hyungjungson&color=dark" style="width: 100%; height:165px;"/>
-
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark&tag=evernote_chrome_error)](https://github.com/hyungjungson/velog-readme-stats)
 -->
 
