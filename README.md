@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:a82da8,100:da8f00&height=230&section=header&text=HyungJungSon&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyungjungson&layout=compact&theme=radical" style="height:177px;"/>
 <img src="https://github-readme-stats.vercel.app/api?username=hyungjungson&show_icons=true&theme=radical" style="height:177px;"/>
-
 // velog
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark)](https://github.com/hyungjungson/velog-readme-stats)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=hyungjungson&color=dark)](https://velog.io/@hyungjungson) 
