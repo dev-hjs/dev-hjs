@@ -113,9 +113,16 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats-eta-indol-68.vercel.app/api/top-langs/?username=hyungjungson&layout=compact&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
   <img src="https://github-readme-stats-eta-indol-68.vercel.app/api?username=hyungjungson&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
 
+<!--
 <p style="display: flex;">
   <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark"  width="46.5%"/>
   <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color=dark&tag=evernote_chrome_error" width="46.5%" />
+</p>
+-->
+
+<p style="display: flex;">
+  <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color"  width="46.5%"/>
+  <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color&tag=evernote_chrome_error" width="46.5%" />
 </p>
 
 </div>
