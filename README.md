@@ -130,3 +130,15 @@ Here are some ideas to get you started:
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H63FLGM4YV"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H63FLGM4YV');
+</script>
+
