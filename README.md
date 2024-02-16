@@ -111,8 +111,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white" />
   <br><br>
 
-  <img src="https://github-readme-stats-eta-indol-68.vercel.app/api/top-langs/?username=hyungjungson&layout=compact&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
-  <img src="https://github-readme-stats-eta-indol-68.vercel.app/api?username=hyungjungson&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
+  <img src="https://github-readme-stats-eta-indol-68.vercel.app/api/top-langs/?username=dev-hjs&layout=compact&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
+  <img src="https://github-readme-stats-eta-indol-68.vercel.app/api?username=dev-hjs&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
 
 <!--
 <p style="display: flex;">
