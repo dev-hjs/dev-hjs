@@ -123,9 +123,14 @@ Here are some ideas to get you started:
 
 <p style="display: flex;">
   <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color"  width="46.5%"/>
-  <img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color&tag=evernote_chrome_error" width="46.5%" />
+  <!--<img src="https://velog-readme-stats.vercel.app/api?name=hyungjungson&color&tag=evernote_chrome_error" width="46.5%" />-->
+  <img src="[https://velog-readme-stats.vercel.app/api?name=hyungjungson&color&tag=evernote_chrome_error](https://velog-readme-stats.vercel.app/api?name=hyungjungson&slug=230601-개발일지-TIL-Channel-Error-in-handleResponse-UNKSWUNREACHABLE-isLogsEnabled-null-오류-해결법)" width="46.5%" />
+ 
 </p>
 
+
+
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=hyungjungson&slug=230601-개발일지-TIL-Channel-Error-in-handleResponse-UNKSWUNREACHABLE-isLogsEnabled-null-오류-해결법)](https://github.com/hyungjungson/velog-readme-stats)
 </div>
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
