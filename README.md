@@ -70,10 +70,7 @@ Major Projects
 
 Other Notable Projects
 
-	•	aniex User and Admin Page (Frontend Development - React Multilingual Page Function and Maintenance)
-	•	1688 Overseas Purchase Agent Platform Development (Frontend Development - Javascript)
-	•	itDia User and Admin Page Maintenance (Frontend Development - Javascript)
-	•	Save the Children Marathon 2023 UI Development
+	•	Save the Children Marathon UI Development
 	•	Public Institutions (City Hall, Museum, Welfare Center) Website Development and Maintenance
 	•	Town Bus 3D Metaverse Platform (Frontend Development - Javascript)
 	•	Jin & Hyun Wellbeing (Wellto) Kiosk User and Admin Page UI Development
