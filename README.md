@@ -85,7 +85,7 @@ Other Notable Projects
 
 Additional Projects
 
-	•	Participated in various other projects focusing on frontend development and UI/UX design.
+	•	Participated in various other projects focusing on frontend development.
  
 
   <img src="https://github-readme-stats-eta-indol-68.vercel.app/api/top-langs/?username=dev-hjs&layout=compact&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
