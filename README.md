@@ -53,8 +53,43 @@ Here are some ideas to get you started:
 
   <div style="align-center: center;"> 
 
- 
 
+
+Projects
+
+Major Projects
+
+	•	LG Electronics Operation
+	•	Seegene Bio New Distribution Platform (React)
+	•	Samsung C&T UI Maintenance
+	•	KAI (Korea Aerospace Industries) Advanced Cluster and Collaborative System Development (React)
+	•	SMC Samsung Seoul Hospital 3D Metaverse Map Development (React)
+	•	Lotte Chemical Corporate Homepage, Product Homepage, and Admin Page Development (Multilingual)
+	•	Hybe (BigHit) Korean and English UI Development
+	•	Kolon BPO Development
+
+Other Notable Projects
+
+	•	aniex User and Admin Page (Frontend Development - React Multilingual Page Function and Maintenance)
+	•	1688 Overseas Purchase Agent Platform Development (Frontend Development - Javascript)
+	•	itDia User and Admin Page Maintenance (Frontend Development - Javascript)
+	•	Save the Children Marathon 2023 UI Development
+	•	Public Institutions (City Hall, Museum, Welfare Center) Website Development and Maintenance
+	•	Town Bus 3D Metaverse Platform (Frontend Development - Javascript)
+	•	Jin & Hyun Wellbeing (Wellto) Kiosk User and Admin Page UI Development
+	•	Internal Map Screen UI Implementation (Frontend Development - Javascript)
+	•	Blockchain-related External Homepage and Wallet UI Development
+	•	Kumkang Shoe Manufacturing OCO UI Development Participation
+	•	Woongjin Book Club Resolution and Inspection Work
+	•	BBQ Mobile UI Development
+	•	LG Hausys, z:in (Z-in) Maintenance
+	•	I’m Ddak, I’m Well Shopping Mall Development and Maintenance
+	•	ERP Development, Responsive Template Work with Internal CMS and Customer Site Development and Maintenance
+
+Additional Projects
+
+	•	Participated in various other projects focusing on frontend development and UI/UX design.
+ 
 
   <img src="https://github-readme-stats-eta-indol-68.vercel.app/api/top-langs/?username=dev-hjs&layout=compact&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
   <img src="https://github-readme-stats-eta-indol-68.vercel.app/api?username=dev-hjs&show_icons=true&theme=radical&hide=stars,contribs&count_private=true" style="height:160px;"/>
