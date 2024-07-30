@@ -70,10 +70,10 @@ Major Projects
 
 Other Notable Projects
 
-	•	Save the Children Marathon UI Development
+	•	Save the Children UI Development
 	•	Public Institutions (City Hall, Museum, Welfare Center) Website Development and Maintenance
-	•	Town Bus 3D Metaverse Platform (Frontend Development - Javascript)
-	•	Jin & Hyun Wellbeing (Wellto) Kiosk User and Admin Page UI Development
+	•	3D Metaverse Platform (Frontend Development - Javascript)
+	•	Kiosk User and Admin Page UI Development
 	•	Internal Map Screen UI Implementation (Frontend Development - Javascript)
 	•	Blockchain-related External Homepage and Wallet UI Development
 	•	Kumkang Shoe Manufacturing OCO UI Development Participation
